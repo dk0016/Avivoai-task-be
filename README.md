@@ -39,3 +39,7 @@ npm install
 ## 3. To start the app
 
 npm run start
+
+## 4. Api(METHOD-GET)
+
+http://localhost:3800/api/avivoai-task/users
